@@ -1,2 +1,2 @@
 # amethystvoid
-my mod 
+my first mod :)
