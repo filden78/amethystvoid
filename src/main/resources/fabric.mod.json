@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "amethystvoid",
+  "version": "${version}",
+  "name": "ametystvoid",
+  "description": "",
+  "authors": [
+    "filden"
+  ],
+  "contact": {
+    "repo": "https://github.com/filden78/amethystvoid"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/amethystvoid/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "ru.filden.amethystvoid.datagen.AVDataGeneration"
+    ],
+    "client": [
+      "ru.filden.amethystvoid.client.AmethystvoidClient"
+    ],
+    "main": [
+      "ru.filden.amethystvoid.Amethystvoid"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

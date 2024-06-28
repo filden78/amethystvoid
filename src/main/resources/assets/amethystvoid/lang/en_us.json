@@ -1,0 +1,22 @@
+{
+  "block.amethystvoid.amethyst_dirt": "Amethyst-covered dirt",
+  "block.amethystvoid.amethyst_stone": "Amethyst-covered stone",
+  "block.amethystvoid.amethyst_cleaner": "Amethyst Cleanser",
+
+  "item.amethystvoid.cup": "Cup",
+  "item.amethystvoid.tea_cup": "Cup of tea",
+  "item.amethystvoid.bad_tea": "Dubious tea",
+  "item.amethystvoid.pure_amethyst": "Pure amethyst",
+  "item.amethystvoid.amethyst_helmet": "Amethyst helmet",
+  "item.amethystvoid.amethyst_chest": "Amethyst chestplate",
+  "item.amethystvoid.amethyst_legs": "Amethyst leggins",
+  "item.amethystvoid.amethyst_boots": "Amethyst boots",
+
+  "itemGroup.amethystvoid.amethyst_void":"Amethystvoid",
+
+  "effect.amethystvoid.dim_pressure_effect": "Void pressure",
+  "death.attack.pressure": "%1$s was torn apart by the pressure of the Void",
+  "effect.amethystvoid.appeasement_effect": "Appeasement",
+  "effect.amethystvoid.diarrhea_effect": "Diarrhea",
+  "death.attack.diarrhea": "%1$s was exhausted"
+}
