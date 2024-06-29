@@ -1,2 +1,2 @@
 # amethystvoid
-my first mod :)
+my mod about amethyst void
